@@ -2,8 +2,8 @@
 
 * [Intro](README.md)
 * [Lab 1](task/L1.md)
-  * [Task 1 - IAM 설정](task/L1T1.md)
-  * [Task 2 - Workspace 구성](task/L1T2.md)
+  * [Task 1 - Workspace 구성](task/L1T1.md)
+  * [Task 2 - IAM 설정](task/L1T2.md)
   * [Task 3 - eksctl 기반 eks 배포](task/L1T3.md)
 * [Lab 2](task/L2.md)
   * [Task 1 - eks cluster](task/L2T1.md)
