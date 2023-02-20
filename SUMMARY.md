@@ -5,6 +5,7 @@
   * [Task 1 - Workspace 구성](task/L1T1.md)
   * [Task 2 - Cloud9 역할 설정](task/L1T2.md)
   * [Task 3 - eksctl 기반 eks 배포](task/L1T3.md)
+  * [Task 4 - Sample app](task/L1T4.md)
 * [Lab 2](task/L2.md)
   * [Task 1 - eks cluster](task/L2T1.md)
   * [Task 2 - presetting](task/L2T2.md)
