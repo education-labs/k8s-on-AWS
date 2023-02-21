@@ -6,7 +6,7 @@
   * [Task 2 - Cloud9 역할 설정](task/L1T2.md)
   * [Task 3 - eksctl 기반 eks 배포](task/L1T3.md)
   * [Task 4 - Sample app](task/L1T4.md)
-  * [Task 5 - PV/PVC with EBS](task/L1T4.md)
+  * [Task 5 - PV/PVC with EBS](task/L1T5.md)
   * [Task 6 - Loadbalancer with ALB](task/L1T4.md)
   * [Task 7 - HPA, VPA, CA](task/L1T4.md)
 * [Lab 2](task/L2.md)
