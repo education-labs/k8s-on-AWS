@@ -10,6 +10,7 @@
   * [Task 6 - PV/PVC with EFS](task/L1T6.md)
   * [Task 7 - Loadbalancer Serivce & Ingress](task/L1T7.md)
   * [Task 8 - HPA](task/L1T8.md)
+  * [Task 9 - VPA, CA](task/L1T9.md)
 * [Lab 2](task/L2.md)
   * [Task 1 - PV/PVC](task/L2T1.md)
   * [Task 2 - Loadbalancer](task/L2T2.md)
