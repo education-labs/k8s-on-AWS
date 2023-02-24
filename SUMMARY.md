@@ -11,3 +11,4 @@
 * [Task 8 - Loadbalancer Serivce & Ingress](task/L1T7.md)
 * [Task 9 - HPA](task/L1T8.md)
 * [Task 10 - VPA, CA](task/L1T9.md)
+* [Task 11 - EKS Console & EKS Dashboard](task/L1T10.md)
