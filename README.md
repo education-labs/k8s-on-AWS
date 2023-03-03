@@ -1,5 +1,7 @@
 # 클라우드 기반 k8s 이해 및 운영
 
+Cloud 기반 Kubernetes 운영
+
 > 2일 과정
 
 > 실습 환경 : AWS
