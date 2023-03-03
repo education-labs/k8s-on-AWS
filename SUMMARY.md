@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Cloud 기반 Kubernetes 운영](README.md)
 * [Task 1 - AWS VPC 구성](task/L1T0.md)
 * [Task 2 - Workspace 구성](task/L1T1.md)
 * [Task 3 - Cloud9 역할 설정](task/L1T2.md)
